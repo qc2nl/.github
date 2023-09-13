@@ -1,1 +1,1 @@
-# Quatum Computing for Quantum Chemistry Netherlands
+# Quantum Computing for Quantum Chemistry Netherlands
